@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to A letter to a dissenter, upon occasion of His Majesties late gracious declaration of indulgence.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25528</idno>
+            <idno type="STC">Wing A3319</idno>
+            <idno type="STC">Wing L1196_CANCELLED</idno>
+            <idno type="STC">ESTC R6343</idno>
+            <idno type="EEBO-CITATION">12527612</idno>
+            <idno type="OCLC">ocm 12527612</idno>
+            <idno type="VID">62684</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25528)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62684)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 303:5 or 695:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to A letter to a dissenter, upon occasion of His Majesties late gracious declaration of indulgence.</title>
+                  <author>L'Estrange, Roger, Sir, 1616-1704.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno 1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written by Roger L'Estrange, according to DNB, there are actually two items with this title, but with different texts. Wing (CD-ROM, 1996) does not attribute this item to R. L'Estrange.</note>
+                  <note>"A letter to a dissenter" is by George Savile. Cf. BM.</note>
+                  <note>Device on t.p. is the same design as McK. 379, but a different cut, without initials.</note>
+                  <note>This item appears at reel 695:8 as Wing L1196. This number is cancelled in Wing (CD-ROM, 1996) and referred to A3319.</note>
+                  <note>Reproductions of originals in Harvard University Libraries (reel 303) and Henry E. Huntington Library and Art Gallery (reel 695).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Halifax, George Savile, --  Marquis of, 1633-1695. --  Letter to a dissenter.</term>
+               <term>Catholic Church --  England --  Early works to 1800.</term>
+               <term>England and Wales. --  Sovereign (1685-1688 : James II). --  His Majesties gracious declaration to all his loving subjects for liberty of conscience.</term>
+               <term>Dissenters, Religious --  England.</term>
+               <term>Great Britain --  History --  James II, 1685-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:62684:1"/>
+            <p>AN ANSWER TO A LETTER TO A DISSENTER, Upon occaſion of his Majeſties late Gra<g ref="char:EOLhyphen"/>cious Declaration of <hi>Indulgence.</hi>
+            </p>
+            <figure/>
+            <p>London, Printed <hi>Anno</hi> 1687.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:62684:2"/>
+            <pb n="1" facs="tcp:62684:2"/>
+            <head>An ANSWER to a LETTER to a <hi>DISSENTER,</hi> &amp;c.</head>
+            <p>PArdon me, Sir, if I think it is your Intereſt at leaſt, if not your Fear and Reſentment, muſt be the effect of you addreſ<g ref="char:EOLhyphen"/>ſing the Diſſenters at this time, ſince hitherto Conſcience and Religion could never prevail to draw from you any manner of Condeſcention to them. Truth muſt at all times carry Conviction with it, unleſs Intereſt hinder; how much it over-ruled you formerly, in what you your ſelves now own to be Truth, I leave you to judg.</p>
+            <p>In the mean time it is to be conſidered whether the Diſſenters in this Juncture act contrary to Truth or no; for if they act according to Truth, let the Clamor of the Church of <hi>England</hi> be never ſo great, they will be able to juſtify themſelves both to God and Man.</p>
+            <p>The great Queſtion then will be, whether the Penal Laws be juſt and equitable Laws, and conſiſtent with the Law of God or not? If they be not conſiſtent with the Law of God, but quite contrary to the Principles of Chriſtianity, to impoſe on and enforce Mens Conſciences, and inflict Penalties on them for not agreeing in meer Matters of Religion; then certainly the Diſſenters will be found al<g ref="char:EOLhyphen"/>together in the right, if they conſent to the abrogating of thoſe Laws. It will be but <hi>actum agere</hi> to prove this impoſing and perſe<g ref="char:EOLhyphen"/>cuting Principle to be quite oppoſite to the expreſs Rule, Doctrine and Practice of Jeſus Chriſt, it having been ſufficiently evinced al<g ref="char:EOLhyphen"/>ready, and all Parties now readily acquieſce in it.</p>
+            <p>And as nothing but Intereſt at firſt prevailed in the enacting theſe perſecuting Laws, ſo I doubt it will be found that the ſelf-ſame In<g ref="char:EOLhyphen"/>tereſt, and not Religion, ſways in the continuance of them: for if the Church of <hi>England</hi> for once would lay aſide that Idol-Intereſt, and conſider what is agreable to the Word of God, and what not, and remember that Golden Rule, of <hi>doing unto others as they would be done by,</hi> I am confident ſhe could never be ſo eager an Advocate for the continuing of theſe unchriſtian Laws.</p>
+            <pb n="2" facs="tcp:62684:3"/>
+            <p>Now as to what advantage the Papiſts can make by Repealing of the Penal Laws, and the diſmal Conſequences hat will follow, which indeed is all that is conſiderable in this <hi>Letter,</hi> and which is the frightful Bugbear made uſe of, it may receive an eaſy Anſwer: For no Man of ſenſe will argue that the bare taking away of the Penal Laws is in it ſelf either an eſtabliſhing of Popery, or deſtroy<g ref="char:EOLhyphen"/>ing of the Church of <hi>England:</hi> The King is moſt graciouſly plea<g ref="char:EOLhyphen"/>ſed to tell us in his Declaration, that <hi>he will maintain Archbiſhops,</hi> &amp;c. And that he queſtions not but his Parliament will ſo ſettle a Li<g ref="char:EOLhyphen"/>berty of Conſcience for all his Subjects, as his Succeſſors ſhall have no cauſe to alter. Now the Parliament no doubt will go no farther to the ſettling of <hi>Popery,</hi> or deſtroying the <hi>Church of England,</hi> than what the King in this his Declaration expects ſhall be enacted, ſo that the Penal Laws muſt be the very eſſential part of the Church of <hi>England,</hi> if the bare taking away of them, and confirming all her other Rights and Priviledges will deſtroy or prejudice her; for the ſame Law that gives Liberty to the <hi>Papiſts</hi> and <hi>Proteſtant Diſſen<g ref="char:EOLhyphen"/>ters,</hi> will as ſtrongly confirm her in every Priviledg and Power, ex<g ref="char:EOLhyphen"/>cept only one, which is the Power of doing hurt: And ſince you ſay, <hi>pag.</hi> 16. that <hi>the Church of England is convinced of her Error in being ſevere to the Diſſenters;</hi> they have reaſon to conclude that the Church of <hi>England</hi> will rather thank than be diſpleaſed with them, for taking from her the means and Temptation of her ever falling into the like Error again.</p>
+            <p>As to what you ſay <hi>page</hi> 3, 4. about the <hi>new Friendſhip of the Diſ<g ref="char:EOLhyphen"/>ſenters,</hi> and the little Truth to be expected from the <hi>Papists Per<g ref="char:EOLhyphen"/>formances;</hi> let it be as you ſay: yet I know of no Diſſenter is ſhaking hands, or entring into any Engagements with them, more than what is natural to all Men to deſire, and endeavour, a free and un<g ref="char:EOLhyphen"/>diſturbed Exerciſe of their Religion according to the Conviction of their Conſciences. And how little to your purpoſe is that Para<g ref="char:EOLhyphen"/>graph, <hi>pag.</hi> 3. where you ſay, <hi>Wine is not more expreſly forbidden to Mahometans, than giving Hereticks liberty to the Papiſts.</hi> For how doth it follow, that becauſe we give them Liberty, that therefore our Li<g ref="char:EOLhyphen"/>berty muſt be precarious from them, when the ſame Law will give the Church of <hi>England</hi> her Preheminence in Powers, Revenues, and all other Advantages and Emoluments, and the <hi>Papiſts</hi> the bare Li<g ref="char:EOLhyphen"/>berty of the Profeſſion of their Religion? Were it intended indeed to diveſt and ſtrip the Church of <hi>England</hi> of all her rich and ſplen<g ref="char:EOLhyphen"/>did Attirements, and cloath the Papiſts with them, the Argument
+<pb n="3" facs="tcp:62684:3"/>might carry more force in it. But it takes from the Church only the worſt and vileſt of her Garments, and which ſhe her ſelf is now aſhamed to appear in, and leaves her all the reſt. <hi>Pag.</hi> 3 you ſay <hi>the Papiſts cannot have Abſolution, if they continue their Kindneſs.</hi> You need not be beholden to them for any Kindneſs, for the Law will continue all to you, without any Kindneſs to be expected from them; ſo that the Principle concludes amiſs, and you will have no occaſion to put them on ſuch difficulties to get their Abſolution. And pag. 3, <hi>Whatever their Skill in Chirurgery is, you ſay the worſt that ever pretended to it at Healing;</hi> there is another Church hath as bad a Faculty at Healing: But I am ſure, we have had of late one So<g ref="char:EOLhyphen"/>veraign Plaiſter which has given a great deal of eaſe, when other inexpert Phyſicians had feſtered and made the Wound almoſt in<g ref="char:EOLhyphen"/>curable.</p>
+            <p>Pag. 4. As to what you ſay to the <hi>Papiſts treatment of thoſe that think them guilty of Idolatry,</hi> is not to the purpoſe: for you proceed on this falſe Principle, That the Papiſts are to have the Power in their hands, whereas the Intent of the Law is, that no one sort of Men ſhall hurt any other for differing from them in their Principles, and this to be ſecured as firm as the Laws can make it; ſo that as to the Conſequences that may happen from the <hi>Papiſts,</hi> if any thing can be rationally concluded in your <hi>Letter,</hi> it muſt be from hence that the Papiſts are to be inveſted with all the Power, when no ſuch thing, but the quite contrary is to be enacted.</p>
+            <p>As to the Matter of <hi>Addreſſing,</hi> 'tis ſtrange the Church of <hi>England</hi> ſhould oppoſe it: for if the King be Supream Head of the Church, as they have ſufficiently preach'd and printed, the King muſt have a Power to diſpenſe with Penal Laws; for all our Lawyers agree the <hi>King</hi> to have the ſame Power as the <hi>Pope</hi> had in Eccleſiaſtical Diſpenſations; and that the Pope had a Power to diſpenſe with the Penal Laws in matters of Religion, eſpecially in <hi>malis prohibitis,</hi> was never queſtioned. And without doubt 'tis not that the King doubts his Power in diſpenſing, that makes him deſirous to have the Penal Laws taken off by Parliament, but that he deſigns his Subjects may have the Liberty of their Conſciences, as well in future times, as they are ſure to enjoy it during his Reign; and why the <hi>Diſſenters</hi> ſhould not thank him for exerting that Power thus ſeaſonably, I cannot comprehend, only thus much we gather from ſome Mens Principles, that as long as the King complied with their Deſires, the Prerogative was ſtrained to the higheſt, but as ſoon as he acts con<g ref="char:EOLhyphen"/>trary
+<pb n="4" facs="tcp:62684:4"/>to their Humours and Intereſt, though in the moſt juſt and ne<g ref="char:EOLhyphen"/>ceſſary occaſion that ever was, great is the Cry, and the Diſſenters, becauſe they addreſs the King for this neceſſary and legal Diſpen<g ref="char:EOLhyphen"/>ſation, muſt be charged with giving a Blow to all Laws, and volun<g ref="char:EOLhyphen"/>tary Aggreſſors of <hi>Magna Charta,</hi> ſo that the Diſſenters (notwith<g ref="char:EOLhyphen"/>ſtanding this ſpecious Addreſs) may from hence gueſs <hi>ex pede Hercu<g ref="char:EOLhyphen"/>lem,</hi> what Entertainment they are like to have from you, if you once again have the Power over them, having already pronounced them ſo great Delinquents in this Particular: and may they (ſay I) ſuffer accordingly, if they give it you again when it lies in their power to take it from you: But I could wiſh the Church of <hi>England</hi> had been no more Aggreſſors of <hi>Magna Charta</hi> than the <hi>Diſſenters</hi> are in this, or any other Particular.</p>
+            <p>As to what you ſay <hi>P.</hi> 5. <hi>about the Inſtruments of this new Friendſhip, and their being brib'd, &amp;c.</hi> I look on it as all Calumny, the old way of dealing with the Diſſenters, <hi>fortiter calumniare aliquid adherebit:</hi> But however, I ſee no harm there is to take Mony to do a good Thing, as I am ſure the taking off theſe unchriſtian-like Laws will be.</p>
+            <p>But for the <hi>Circular Letters, and tyring the Poſt-Horſes, P.</hi> 7. You take up this I ſuppoſe at gueſs only, by what you your ſelves did in the caſe of Abhorrences to the late King, but drop Inſtances in that particular as ſoon as you pleaſe.</p>
+            <p>But you threaten highly, and tell the Diſſenters, <hi>P.</hi> 12. That <hi>the Church of</hi> England <hi>can in a Moment bring Clouds again, and turn the Royal Thunder upon our Heads, blow us off the Stage with a Breath; if ſhe would but give a Smile or a kind Word, the leaſt glimpſe of her compliance would throw the Diſſenters back into their former ſtate of Suffering:</hi> But ſhe (good Church) <hi>will not allow her ſelf to be reſcued by ſuch unjuſtifi<g ref="char:EOLhyphen"/>able means, but chuſeth to bear the Weight of Power, rather than lye under the Burthen of being Criminal.</hi> Now what the Sence of this ſtudied Paragraph is, or what weight it is that the King is going to put upon her, I cannot imagine, unleſs ſhe reckons Arch-Biſhops, Biſhops, <hi>&amp;c.</hi> to be a Weight; and indeed they have been a dead and heavy Weight to ſome People: But of this Weight, I ſuppoſe, ſhe may be eaſed as ſoon as ſhe pleaſeth: And that ſhe will not thank the King for eaſing her of what diſgraceth her, and of which ſhe her ſelf is now aſhamed, ſhe muſt, I think, in the Senſe of all ſober Men ſtill lye under the Burthen of being Criminal.</p>
+            <pb n="5" facs="tcp:62684:4"/>
+            <p>But ſhe dealsvery ſawcily methinks with the <hi>Royal Thunderer,</hi> as if ſhe with a Smile could alter what he hath ſo ſolemnly declared he will continue during his Reign: But why ſhould ſhe that hath ſo ſtrongly maintained that the Word of the King is Sacred, imagine that for a Smile from her he would ſo eaſily alter his Sacred Word? The Reaſon is plain, ſhe maintained his Word to be Sacred, when ſhe thought he would regulate himſelf by her ſtinted Principles; but now ſhe ſees that he acts by a more Divine and Generous Principle, the Caſe is altered, tho he is ſtill the ſame to her, for he maintains her in all her Grandeur, Rights and Priviledges, according to his Word: But certainly ſhe was much to blame to imagine that when he promiſed to maintain her, he would ſo maintain her as to give her Power to deſtroy all others.</p>
+            <p>But that <hi>Pag.</hi> 3. where you ſay <hi>that they</hi> (the Roman Catholicks) <hi>are no more able to make good their Vows, than Men married before, and their Wife alive, can confirm their Contract with another Woman: You are to be hugged now, that you may be ſqueez'd at another time:</hi> We know 'tis the King hath made this Vow or Promiſe to us, that we ſhall enjoy this Liberty during his Reign; now that ſuch Language ſhould proceed from Loyal Church-men is very ſtrange, ſo that if the Government do but in the leaſt thwart them, 'tis not their Do<g ref="char:EOLhyphen"/>ctrine of <hi>Paſſive Obedience</hi> and <hi>Submiſſion</hi> can keep them within bounds, but they muſt ſquint on the Government.</p>
+            <p>But you ſeem to ſpeak very fairly, <hi>P.</hi> 16. <hi>That the Foundation muſt be inlarged, and an Agreement made amongſt Proteſtants againſt the com<g ref="char:EOLhyphen"/>mon Enemy.</hi> And is the Church really in earneſt in this Point! Or perhaps ſhe thinks ſhe can put any thing upon the eaſy good-natured Diſſenters, whom ſhe wil hug at preſent, that ſhe may ſqueeze them hereafter: But the Diſſenters I hope will not ſwallow ſuch a gilded Pill; For why did not the Church of <hi>England</hi> agree to this in the <hi>Weſtminſter Parliament,</hi> when the Bill of Comprehenſion was propo<g ref="char:EOLhyphen"/>ſed, a very ſeaſonable time for ſo good and ſo great a Work, and ſav'd all this Trouble, but inſtead of that, they fell to Violence and Perſecution, and at this inſtant threaten ſeverely, and would no doubt be at the ſame glorious Work again, had not the King in his great Mercy put a ſtop to it?</p>
+            <p>
+               <hi>But the next Heir,</hi> you ſay <hi>P.</hi> 16. <hi>and all things will conſpire to give the Diſſenters eaſe and ſatisfaction, if they do not anticipate and deſtroy it themſelves.</hi> How far the Church of <hi>England</hi> may influence the next Succeſſor, bred in her Boſom, and not in that Countrey you ſpeak of,
+<pb n="6" facs="tcp:62684:5"/>and of a Sex eaſier to be prevailed with, the Diſſenters have no rea<g ref="char:EOLhyphen"/>ſon to hazard, ſince nothing but the Great, Noble, and generous Reſo<g ref="char:EOLhyphen"/>lution of our preſent Prince could break through the daily and con<g ref="char:EOLhyphen"/>tinued Sollicitations of the Church of <hi>England</hi> to the contrary.</p>
+            <p>
+               <hi>P.</hi> 10. <hi>You bid us conſider and take warning by the Church of</hi> Englands <hi>miſtake in the ſame kind, when after the late King's Reſtoration they pre<g ref="char:EOLhyphen"/>ſerved ſo long the bitter taſte of the Diſſenters rough uſage towards them in other times, that it made the Church of</hi> England <hi>forget their intereſt, and ſacrifice it to their revenge.</hi> The Caſe indeed is worth conſidering; by their Revenge, I ſuppoſe, you mean the enacting and executing of thoſe ſevere Penal Laws upon the <hi>Diſſenters;</hi> a Revenge, I muſt confeſs with a Witneſs! But, Sir, the Diſſenters will conſider this Caſe ſeriouſly, and deal more fairly by the Church than the Church dealt by them; they will neither enact, nor execute any Penal Laws againſt the Church of <hi>England;</hi> but on the contrary, they, as the King hath been pleaſed to declare, will conſent to confirm all Arch<g ref="char:EOLhyphen"/>biſhops, Biſhops, <hi>&amp;c.</hi> And likewiſe to enact, That neither Papiſt, nor any other ſhall have power to hurt the Church in the Profeſ<g ref="char:EOLhyphen"/>ſion of her Religion, or the Poſſeſſion of her Rich Temporalties; and humbly crave only at her hands, that they may have by the ſame Law, the free Exerciſe of their Religion in Peace and Quiet<g ref="char:EOLhyphen"/>neſs; And hope the Church will not refuſe them ſo ſmall a pit<g ref="char:EOLhyphen"/>tance.</p>
+            <p>Now, Sir, if the Church be not ſatisfied herein, it will tempt Men to conclude, that her eager deſire to have theſe Laws conti<g ref="char:EOLhyphen"/>nued, is with a deſign to put them at a proper ſeaſon in execu<g ref="char:EOLhyphen"/>tion again; and that ſhe cannot be ſatisfied in any thing leſs than a Power of Perſecution, ſince all her other Priviledges will be confirm'd to her, and that only taken from her.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
